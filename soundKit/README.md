@@ -11,7 +11,7 @@ sound trak
           <span>boom</span>
         </div>
 
-The <kbd><kbd> tag is used to define keyboard input. The content inside is displayed in the browser's default monospace font.
+<kbd><kbd> => \tag is used to define keyboard input. The content inside is displayed in the browser's default monospace font.
 
 
 
