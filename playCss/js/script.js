@@ -4,7 +4,7 @@ const inputdata = document.querySelectorAll('.box input')
 
 function handleInput(){
     console.log(this.value);
-    const suf = this.dataset.sizing || '';
+    const suf = this.dataset.size || '';
     document.documentElement.style.setProperty(`--${this.name}`,this.value+suf)
 }
 
